@@ -3,8 +3,7 @@ package Pekan2;
 public class DeklarasiVariable {
 	/*program java
 	 * latihan
-	 * tentang pendeklarasian variable
-	 */
+	 * tentang pendeklarasian variable */
 	public static void main(String[] args) {
 		int umur=25;
 		int kode;

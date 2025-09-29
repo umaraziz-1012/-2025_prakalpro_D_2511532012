@@ -7,7 +7,6 @@ public class Keliling_lingkaran {
 		double radius = 30;     /* Deklarasi variable */
 			System.out.println("keliling =  " + 2 * PI * radius);
 			System.out.println("jika radius 30 keliling = " + 2 * PI * radius );
-
 	}
 
 }
