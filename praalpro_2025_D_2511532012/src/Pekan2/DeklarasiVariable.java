@@ -17,7 +17,7 @@ public class DeklarasiVariable {
 		System.out.println("Kode:" + kode);
 		System.out.println("Umur:" + umur);
 		System.out.println("Gaji:" + gaji);
-		// TODO Auto-generated method stub
+		
 
 	}
 

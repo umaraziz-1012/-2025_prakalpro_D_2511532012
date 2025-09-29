@@ -25,7 +25,7 @@ public class ContohCar {
 		
 		String kata = "" + huruf1 + huruf2 + angka + simbol ;
 		System.out.println(" Gabungan char menjadi string: " + kata );
-		// TODO Auto-generated method stub
+		
 
 	}
 
