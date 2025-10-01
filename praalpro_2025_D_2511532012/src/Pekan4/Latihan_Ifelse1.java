@@ -2,7 +2,7 @@ package Pekan4;
 
 import java.util.Scanner;
 
-public class latihan_IF1 {
+public class Latihan_Ifelse1 {
 
 	public static void main(String[] args) {
 		Double IPK;
@@ -12,10 +12,12 @@ public class latihan_IF1 {
 		input.close();
 		if (IPK>2.75) {
 			System.out.println("Anda lulus dengan sangat memuaskan dengan IPK " + IPK);
+		} else {
+			System.out.println("anda tidak lulus dengan IPK " + IPK);
+			System.out.println("COBA LAGI DI TAHUN DEPAN");
 		}
-		else if (IPK<2.75) {
-			System.out.println("Anda lulus biasa biasa saja dengan IPK " + IPK);
-		}
+
+
 	}
 
 }
